@@ -10,15 +10,15 @@
 
 *In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:*
 ### User Stories
--As a new user, I want to find out what work can I get done to my vehicle?
--As a new user, I want to know if there is a breakdown service?
--As a new user, I want to know how much will the work cost me?
--As a new user, I want to know how can I contact you?
--As a new user, I want to know how do I book an appointment?
--As a user, I want to be able to sign up and sign in to avail of member discounts etc.
--As the owner, I want to advertise the services I offer to new customers.
--As the owner, I want to continue to maintain my existing customer base with loyalty rewards.
--As the owner, I want my site to be easily navigable to both new and existing users.
+- As a new user, I want to find out what work can I get done to my vehicle?
+- As a new user, I want to know if there is a breakdown service?
+- As a new user, I want to know how much will the work cost me?
+- As a new user, I want to know how can I contact you?
+- As a new user, I want to know how do I book an appointment?
+- As a user, I want to be able to sign up and sign in to avail of member discounts etc.
+- As the owner, I want to advertise the services I offer to new customers.
+- As the owner, I want to continue to maintain my existing customer base with loyalty rewards.
+- As the owner, I want my site to be easily navigable to both new and existing users.
 
 ### Strategy
 The main goal of the website is to make an easy way for the user to get a general idea of work that can be done to their car and to get an idea of the price structure in place.
