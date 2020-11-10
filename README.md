@@ -23,7 +23,7 @@
 ### Strategy
 The main goal of the website is to make an easy way for the user to get a general idea of work that can be done to their car and to get an idea of the price structure in place.
 I wish to design an intuitive, easily navigable website to create an enjoyable user experience, which wil benefit both users and the owner.
-I wish to make it easy for the user to see what services are available to them and to provide details of the team and facilities to give confidence to the user while browsing.
+I wish to make it easy for the user to see what services are available to them and to provide details of the team and facilities to give confidence to the user while browsing on any device.
 
 *This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.*
 
