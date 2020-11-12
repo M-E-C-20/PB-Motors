@@ -1,8 +1,12 @@
 # Pearson's Bridge Motors
 
-*One or two paragraphs providing an overview of your project.*
+This is my website which will be used to advertise a small local garage.
+It should feature the services offered and a price guide, an about page, a gallery and a contact page.
+the primary goal is to intice customers to make contact with the garage via the contact page.
 
-*Essentially, this part is your sales pitch.*
+To do this I will need to make a comprehensive guide of services are available and use the price guide to give the customer confidence in what they are spending they're money on.
+To bolster this confidence, I will include reviews and an about page.
+On the gallery page I will include some images of the garage and some helpful tips for self maintenance for the customer.
  
 ## UX
  
@@ -24,6 +28,28 @@
 The main goal of the website is to make an easy way for the user to get a general idea of work that can be done to their car and to get an idea of the price structure in place.
 I wish to design an intuitive, easily navigable website to create an enjoyable user experience, which wil benefit both users and the owner.
 I wish to make it easy for the user to see what services are available to them and to provide details of the team and facilities to give confidence to the user while browsing on any device.
+
+### Scope
+I want to use a minimalist design to demonstrate to customers services offered,
+and to ensure customer confidence using the about section.
+The option to contact the garage needs to be included also.
+
+### Structure
+In each section I want to keep a common navbar and a common footer.
+In the header there will be a navbar with site links and a company logo.
+In the footer section there will be copyright information and social media icons which will act as buttons linking to their respective sites.
+
+### Skeleton 
+- Home
+- About 
+- Gallery 
+- Contact 
+***
+*I will need to make these links to wireframes*
+***
+
+### Surface 
+I wish to use a grey/black and red colour scheme to give a sleek and modern feel.
 
 *This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.*
 
