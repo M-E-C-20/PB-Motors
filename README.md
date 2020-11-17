@@ -70,10 +70,14 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+*In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.*
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
+- [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaVYvwCWIORZNFLa4ZbfPQf8gAchZhdlP10mZeYDFooTFk1sW1Pua4caAgsmEALw_wcB)
+    - I used Balsamiq Wireframes for desktop to generate wireframes for my project.
+- [Canva](https://www.canva.com/tools/logo-maker-q1/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_UK_EN_CanvaPro_Logo_EM&utm_term=REV_UK_EN_CanvaPro_Logo%20Maker_EM&gclsrc=aw.ds&&gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaV4sEhgBW0e4NXHPZWqHuup9scI62Xw9bDRG2VzYZ_2mEsON57tZ44aAp4sEALw_wcB&gclsrc=aw.ds)
+    - I used Canva to create a company logo for the website.
 
 
 ## Testing
@@ -118,4 +122,4 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I received inspiration for this project from my first job, which was in my family garage. I noticed that many small garages have no way of being contacted or even noticed unless through word of mouth.
