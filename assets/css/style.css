@@ -1,11 +1,66 @@
 @import url("https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
 
 /*---------------------------------------------------Colours */
+.nav-item-home {
+    background-color: #c22727;
+}
 
+.nav-item-about {
+    background-color: #c22727;
+}
+
+.nav-item-gallery {
+    background-color: #c22727;
+}
+
+.nav-item-contact {
+    background-color: #c22727;
+}
 
 /*---------------------------------------------------Special paddings/margins/text */
-.headings {
-  text-align: center;
-  font-family: "Goldman", sans-serif;
-  text-decoration: underline;
+.menu-items a {
+    text-align: center;
+    border: 0.5px solid #fafafa;
+
+}
+.menu-items span {
+    display: block;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 300;
+    padding-top: 5px;
+}
+
+.nav-item {
+    padding-top: 40px;
+    padding-bottom: 25px;
+    color: #fafafa;
+    background-color: #3e3b3b;
+    font-size: 20px;
+}
+
+.nav-item:hover {
+    color: #3e3b3b;
+    background-color: #fafafa;
+    transition-property: color;
+    transition-duration: 1s;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.logo {
+    text-decoration: underline;
+    font-family: "Goldman", sans-serif;
+    font-weight: 700;
+    color: #fafafa;
+    background-color: #3e3b3b;
+}
+
+.logo:hover {
+    color: #fafafa;
+}
+
+.logo h2 {
+    padding: 15px 15px;
 }

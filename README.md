@@ -49,7 +49,7 @@ In the footer section there will be copyright information and social media icons
 ***
 
 ### Surface 
-I wish to use a grey/black and red colour scheme to give a sleek and modern feel.
+I wish to use a darker colour scheme to give a sleek and more mechanical feel.
 
 *This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.*
 
@@ -78,6 +78,8 @@ In addition, you may also use this section to discuss plans for additional featu
     - I used Balsamiq Wireframes for desktop to generate wireframes for my project.
 - [Canva](https://www.canva.com/tools/logo-maker-q1/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_UK_EN_CanvaPro_Logo_EM&utm_term=REV_UK_EN_CanvaPro_Logo%20Maker_EM&gclsrc=aw.ds&&gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaV4sEhgBW0e4NXHPZWqHuup9scI62Xw9bDRG2VzYZ_2mEsON57tZ44aAp4sEALw_wcB&gclsrc=aw.ds)
     - I used Canva to create a company logo for the website.
+- [Font Awesome](https://fontawesome.com/)
+    - I used Font Awesome to add to my navigation buttons.
 
 
 ## Testing
@@ -123,3 +125,4 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Acknowledgements
 
 - I received inspiration for this project from my first job, which was in my family garage. I noticed that many small garages have no way of being contacted or even noticed unless through word of mouth.
+- I took inspiration for the navbar styling from the UCD resume project, using the box style for the navigation buttons, symbols from font awseome, and a transition effect also as in the project.
