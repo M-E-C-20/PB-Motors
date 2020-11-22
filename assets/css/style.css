@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap");
+
+/*---------------------------------------------------Colours */
+
+
+/*---------------------------------------------------Special paddings/margins/text */
+.headings {
+  text-align: center;
+  font-family: "Goldman", sans-serif;
+  text-decoration: underline;
+}
