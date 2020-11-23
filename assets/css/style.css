@@ -66,6 +66,23 @@
     padding: 15px 15px;
 }
 
+/*---------------------------------------------------Site content */
+
+.business-hours-address {
+    height: 100vh;
+    background: url(../images/tools.jpg) no-repeat bottom right fixed;
+    background-size: cover;
+}
+
+.business-info-card {
+    text-align: center;
+}
+
+.info-content {
+    list-style-type: none;
+    text-align: center;
+}
+
 /*---------------------------------------------------Footer */
 
 .site-footer {

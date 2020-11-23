@@ -119,6 +119,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 - The css for hovering the social media icons was copied and pasted directly from w3schools.com.
+- Icopied the css for the backgound image on the home page from the Whiskey Drop project.
 
 ### Media
 - The photos used in this site were obtained from ...
