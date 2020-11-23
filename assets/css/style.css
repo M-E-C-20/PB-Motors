@@ -82,3 +82,14 @@
     font-family: "Roboto Condensed", sans-serif;
     font-weight: 300;
 }
+
+.social i {
+    color: #e8e8e8;
+    padding: 0px 15px;
+}
+
+.social i:hover {
+    -ms-transform: scale(1.5); /* IE 9 */  /* copied directly from w3schools.com */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */ /* copied directly from w3schools.com */
+  transform: scale(1.5); /* copied directly from w3schools.com */
+}
