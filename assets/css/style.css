@@ -2,120 +2,126 @@
 
 /*---------------------------------------------------Colours */
 .nav-item-home {
-    background-color: #c22727;
+  background-color: #c22727;
 }
 
 .nav-item-about {
-    background-color: #c22727;
+  background-color: #c22727;
 }
 
 .nav-item-gallery {
-    background-color: #c22727;
+  background-color: #c22727;
 }
 
 .nav-item-contact {
-    background-color: #c22727;
+  background-color: #c22727;
 }
 
 .bg-light {
-    background-color: rgba(0, 0, 0, 0.7)!important;
+  background-color: rgba(0, 0, 0, 0.7) !important;
 }
 
 /*---------------------------------------------------Special paddings/margins/text */
 
 .menu-items a {
-    text-align: center;
-    border: 0.5px solid #e8e8e8;
-
+  text-align: center;
+  border: 0.5px solid #e8e8e8;
 }
 .menu-items span {
-    display: block;
-    font-family: "Roboto Condensed", sans-serif;
-    font-weight: 300;
-    padding-top: 5px;
+  display: block;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 300;
+  padding-top: 5px;
 }
 
 .nav-item {
-    padding-top: 40px;
-    padding-bottom: 25px;
-    color: #e8e8e8;
-    background-color: #3e3b3b;
-    font-size: 20px;
+  padding-top: 40px;
+  padding-bottom: 25px;
+  color: #e8e8e8;
+  background-color: #3e3b3b;
+  font-size: 20px;
 }
 
 .nav-item:hover {
-    color: #3e3b3b;
-    background-color: #e8e8e8;
-    transition-property: color;
-    transition-duration: 1s;
+  color: #3e3b3b;
+  background-color: #e8e8e8;
+  transition-property: color;
+  transition-duration: 1s;
 }
 
 .uppercase {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .logo {
-    text-decoration: underline;
-    font-family: "Goldman", sans-serif;
-    font-weight: 700;
-    color: #e8e8e8;
-    background-color: #3e3b3b;
+  text-decoration: underline;
+  font-family: "Goldman", sans-serif;
+  font-weight: 700;
+  color: #e8e8e8;
+  background-color: #3e3b3b;
 }
 
 .logo:hover {
-    color: #e8e8e8;
+  color: #e8e8e8;
 }
 
 .logo h2 {
-    padding: 15px 15px;
+  padding: 15px 15px;
 }
 
 /*---------------------------------------------------Site content */
 
 .business-hours-address {
-    height: 100vh;
-    background: url(../images/tools.jpg) no-repeat bottom right fixed;
-    background-size: cover;
+  height: 100vh;
+  background: url(../images/tools.jpg) no-repeat bottom right fixed;
+  background-size: cover;
 }
 
-.business-info-card {
-    color: #e8e8e8;
-    font-family: "Roboto Condensed", sans-serif;
+.business-info {
+  color: #e8e8e8;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.business-info ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.business-info-head {
     font-weight: 700;
-}
-
-.info-content {
-    list-style-type: none;
-    padding-left: 0px;
-    color: #e8e8e8;
-    font-family: "Roboto Condensed", sans-serif;
-    font-weight: 300;
+    border-bottom: 1px solid yellow;
 }
 
 /*---------------------------------------------------Footer */
 
 .site-footer {
-    background-color: #3e3b3b;
-    color: #e8e8e8;
-    padding-top: 10px;
-    text-align: center;
-    font-size: 25px;
+  background-color: #3e3b3b;
+  color: #e8e8e8;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 25px;
 }
 
 .year {
-    display: inline;
-    padding-left: 5px;
-    font-family: "Roboto Condensed", sans-serif;
-    font-weight: 300;
+  display: inline;
+  padding-left: 5px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 300;
 }
 
 .social i {
-    color: #e8e8e8;
-    padding: 0px 15px;
+  color: #e8e8e8;
+  padding: 0px 15px;
 }
 
 .social i:hover {
-    -ms-transform: scale(1.5); /* IE 9 */  /* copied directly from w3schools.com */
-  -webkit-transform: scale(1.5); /* Safari 3-8 */ /* copied directly from w3schools.com */
+  -ms-transform: scale(1.5); /* IE 9 */ /* copied directly from w3schools.com */
+  -webkit-transform: scale(
+    1.5
+  ); /* Safari 3-8 */ /* copied directly from w3schools.com */
   transform: scale(1.5); /* copied directly from w3schools.com */
 }
