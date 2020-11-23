@@ -128,3 +128,5 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 - I received inspiration for this project from my first job, which was in my family garage. I noticed that many small garages have no way of being contacted or even noticed unless through word of mouth.
 - I took inspiration for the navbar styling from the UCD resume project, using the box style for the navigation buttons, symbols from font awseome, and a transition effect also as in the project.
+- One of the main automotive websites I took note of was [Quick Fit](https://quickfit.ie/). In particular the home page, with the opening hours and address at the top, and a row of services performed underneath.
+- 
