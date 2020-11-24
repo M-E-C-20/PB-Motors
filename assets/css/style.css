@@ -75,7 +75,7 @@
   height: 100vh;
   background: url(../images/tools.jpg) no-repeat bottom right fixed;
   background-size: cover;
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 .business-info {
