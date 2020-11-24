@@ -104,6 +104,10 @@
   margin-bottom: 0;
 }
 
+.service-section {
+    margin: 0 auto;
+}
+
 .service-info {
   border: 1px solid #e8e8e8;
   color: #e8e8e8;
