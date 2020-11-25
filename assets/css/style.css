@@ -88,7 +88,7 @@
 }
 
 .service-section {
-    margin: 0 auto;
+  margin: 0 auto;
 }
 
 .service-info {
@@ -109,15 +109,29 @@
 }
 
 .service-info p {
-    font-family: "Roboto Condensed", sans-serif;
-    font-size: 3;
-    font-weight: 400;
-    padding-top: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 3;
+  font-weight: 400;
+  padding-top: 10px;
 }
 
 .booking-button {
-    border-radius: 99rem;
-    margin-bottom: 10px;
+  border-radius: 99rem;
+  margin-bottom: 10px;
+  background-color: #e8e8e8;
+  color: #3e3b3b;
+  transition: opacity 0.25s ease-in-out;
+  -moz-transition: opacity 0.25s ease-in-out;
+  -webkit-transition: opacity 0.25s ease-in-out;
+}
+
+.booking-button:hover {
+  opacity: 0.8;
+}
+
+.price-section {
+  background-color: #e8e8e8;
+  color: ;
 }
 
 /*---------------------------------------------------Footer */
