@@ -49,7 +49,7 @@ In the footer section there will be copyright information and social media icons
 ***
 
 ### Surface 
-I wish to use a darker colour scheme to give a sleek and more mechanical feel.
+I wish to use a simple grey and white colour scheme which contrasts well together and is easily read.
 
 *This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.*
 
