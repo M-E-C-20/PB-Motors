@@ -13,6 +13,11 @@
 
     <link
       rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap"
+    />
+
+    <link
+      rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.15.1/css/all.css"
       integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
       crossorigin="anonymous"
@@ -25,9 +30,9 @@
 
   <body>
     <header>
-       <div class="row no-gutters menu-items">
+      <div class="row no-gutters menu-items">
         <a href="index.html" class="col-sm-12 col-md-4 uppercase logo"
-          ><h2>Pearson's Bridge Motors</h2></a
+          ><h2 class="logo-text">Pearson's Bridge Motors</h2></a
         >
         <a href="index.html" class="col-sm-6 col-md-2 nav-item nav-item-home"
           ><i class="fas fa-home" aria-hidden="true"><span>Home</span></i></a
@@ -37,10 +42,14 @@
             ><span>About</span></i
           ></a
         >
-        <a href="gallery.html" class="col-sm-6 col-md-2 nav-item nav-item-gallery"
+        <a
+          href="gallery.html"
+          class="col-sm-6 col-md-2 nav-item nav-item-gallery"
           ><i class="fas fa-car" aria-hidden="true"><span>Gallery</span></i></a
         >
-        <a href="contact.html" class="col-sm-6 col-md-2 nav-item nav-item-contact"
+        <a
+          href="contact.html"
+          class="col-sm-6 col-md-2 nav-item nav-item-contact"
           ><i class="fas fa-comments" aria-hidden="true"
             ><span>Contact</span></i
           ></a
@@ -49,14 +58,73 @@
     </header>
 
     <section>
-      <p>media list</p>
+      <div class="container-fluid bg-container-about">
+        <div class="container head-image">
+          <img
+            src="assets/images/garage.jpg"
+            class="img-fluid"
+            alt="car repair"
+          />
+        </div>
+        <div class="container">
+          <ul class="list-unstyled about-us">
+            <li class="media pt-3">
+              <img
+                src="assets/images/john.jpg"
+                class="mr-3 align-self-center mechanic-image"
+                alt="john"
+              />
+              <div class="media-body">
+                <h5 class="mt-0 mb-1">John</h5>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
+                scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                vulputate at, tempus viverra turpis. Fusce condimentum nunc ac
+                nisi vulputate fringilla. Donec lacinia congue felis in
+                faucibus.
+              </div>
+            </li>
+            <li class="media my-4">
+              <img
+                src="assets/images/mary.jpg"
+                class="mr-3 align-self-center mechanic-image"
+                alt="mary"
+              />
+              <div class="media-body">
+                <h5 class="mt-0 mb-1">Mary</h5>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
+                scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                vulputate at, tempus viverra turpis. Fusce condimentum nunc ac
+                nisi vulputate fringilla. Donec lacinia congue felis in
+                faucibus.
+              </div>
+            </li>
+            <li class="media">
+              <img
+                src="assets/images/tim.jpg"
+                class="mr-3 align-self-center mechanic-image"
+                alt="tim"
+              />
+              <div class="media-body">
+                <h5 class="mt-0 mb-1">Tim</h5>
+                Cras sit amet nibh libero, in gravida nulla. Nulla vel metus
+                scelerisque ante sollicitudin. Cras purus odio, vestibulum in
+                vulputate at, tempus viverra turpis. Fusce condimentum nunc ac
+                nisi vulputate fringilla. Donec lacinia congue felis in
+                faucibus.
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
     </section>
 
     <footer>
       <div class="container-fluid">
         <div class="row site-footer">
           <div class="col-sm-6">
-            <i class="fas fa-copyright" aria-hidden="true"><p class="year">2020</p></i>
+            <i class="fas fa-copyright" aria-hidden="true"
+              ><p class="year">2020</p></i
+            >
             <span class="sr-only">Copyright</span>
           </div>
           <div class="col-sm-6">
