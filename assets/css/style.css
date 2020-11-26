@@ -57,6 +57,16 @@
   height: 200px;
 }
 
+.about-top-image {
+    width: 100%;
+    height: 100%;
+}
+
+.media-body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
 /*---------------------------------------------------Section */
 
 .business-hours-address {
@@ -66,6 +76,15 @@
   overflow: hidden;
 }
 
+.bg-container-about {
+  width: 100vw;
+  background: url(../images/garage.jpg) no-repeat bottom right fixed;
+  background-size: cover;
+  overflow: hidden;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
 .business-info {
   color: #e8e8e8;
   background-color: black; /* fallback color */
@@ -73,6 +92,15 @@
   font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
   text-align: center;
+  padding-top: 30px;
+}
+
+.about-us {
+  color: #e8e8e8;
+  background-color: black; /* fallback color */
+  background-color: rgba(0, 0, 0, 0.8);
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 400;
   padding-top: 30px;
 }
 
@@ -139,14 +167,6 @@
 
 .price-section {
   background-color: #e8e8e8;
-}
-
-.about-us {
-  font-family: "Roboto Condensed", sans-serif;
-  font-weight: 400;
-  color: #3e3b3b;
-  margin: 0;
-  padding-bottom: 1rem;
 }
 
 /*---------------------------------------------------Footer */
