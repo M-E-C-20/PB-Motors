@@ -63,6 +63,7 @@ In this section, you should go over the different parts of your project, and des
 - What we do - This section on the home page gives a general view of the services offered which includes a button which links to the contact page or, if trying to contact breakdown services, links to a phone number.
 - Price Guide - A table which gives a general price range to inform the customer of costs before they choose to make contact.
 - Footer - This will include social links which open in an new tab when selected.
+- About - This section will give some information on the technicians and their credentials, which should help to inspire confidence in a user.
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
