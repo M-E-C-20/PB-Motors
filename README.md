@@ -59,7 +59,10 @@ In this section, you should go over the different parts of your project, and des
  
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- Navbar - allows the user to navigate the site using the listed buttons. The company name/logo also acts as a home button.
+- What we do - This section on the home page gives a general view of the services offered which includes a button which links to the contact page or, if trying to contact breakdown services, links to a phone number.
+- Price Guide - A table which gives a general price range to inform the customer of costs before they choose to make contact.
+- Footer - This will include social links which open in an new tab when selected.
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
