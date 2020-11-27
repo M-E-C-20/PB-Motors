@@ -58,10 +58,9 @@
     </header>
 
     <section>
-      <!--Section: Contact v.2-->
-      <section class="mb-4">
-        <!--Section heading-->
-        <h2 class="h1-responsive font-weight-bold text-center my-4">
+    <!--this section has been taken from mdbootstrap.com-->
+      <div class="container-fluid gallery-items">
+        <h2 class="h1-responsive font-weight-bold text-center py-4">
           Contact us
         </h2>
         <!--Section description-->
@@ -70,117 +69,94 @@
           directly. Our team will come back to you within a matter of hours to
           help you.
         </p>
-
-        <div class="row">
-          <!--Grid column-->
-          <div class="col-md-9 mb-md-0 mb-5">
-            <form
-              id="contact-form"
-              name="contact-form"
-              action="mail.php"
-              method="POST"
-            >
-              <!--Grid row-->
-              <div class="row">
-                <!--Grid column-->
-                <div class="col-md-6">
-                  <div class="md-form mb-0">
-                    <input
-                      type="text"
-                      id="name"
-                      name="name"
-                      class="form-control"
-                    />
-                    <label for="name" class="">Your name</label>
+        <div class="container">
+          <form action="https://formdump.codeinstitute.net/" method="post">
+            <div class="row">
+              <div class="col-md-9">
+                <div class="row">
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="name">Name</label>
+                      <input
+                        class="form-control"
+                        id="name"
+                        placeholder="Enter name"
+                        required
+                      />
+                    </div>
+                  </div>
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="email">Email</label>
+                      <input
+                        class="form-control"
+                        id="email"
+                        placeholder="Enter email"
+                        required
+                      />
+                    </div>
                   </div>
                 </div>
-                <!--Grid column-->
-
-                <!--Grid column-->
-                <div class="col-md-6">
-                  <div class="md-form mb-0">
-                    <input
-                      type="text"
-                      id="email"
-                      name="email"
-                      class="form-control"
-                    />
-                    <label for="email" class="">Your email</label>
+                <div class="row">
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="subject">Subject</label>
+                      <input
+                        class="form-control"
+                        id="subject"
+                        placeholder="Enter subject"
+                        required
+                      />
+                    </div>
                   </div>
                 </div>
-                <!--Grid column-->
+                <div class="row">
+                  <div class="col">
+                    <div class="form-group">
+                      <label for="textarea">Your Message</label>
+                      <input
+                        class="form-control"
+                        id="textarea"
+                        placeholder="Enter your message"
+                        rows="5"
+                        required
+                      />
+                    </div>
+                  </div>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
               </div>
-              <!--Grid row-->
+              <div class="col-md-3 text-center">
+                <ul class="list-unstyled mb-0">
+                  <li>
+                    <i class="fas fa-map-marker-alt fa-2x"></i>
+                    <p>Bantry, P90 PL98</p>
+                  </li>
 
-              <!--Grid row-->
-              <div class="row">
-                <div class="col-md-12">
-                  <div class="md-form mb-0">
-                    <input
-                      type="text"
-                      id="subject"
-                      name="subject"
-                      class="form-control"
-                    />
-                    <label for="subject" class="">Subject</label>
-                  </div>
-                </div>
+                  <li>
+                    <a href="tel:12345678">
+                      <i class="fas fa-phone mt-4 fa-2x tel-button"></i>
+                    </a>
+                    <p>123-45678</p>
+                  </li>
+
+                  <li>
+                    <a href="tel:08612345678">
+                      <i class="fas fa-toolbox mt-4 fa-2x tel-button"></i>
+                    </a>
+                    <p>Outside Hours: 086-12345678</p>
+                  </li>
+                </ul>
               </div>
-              <!--Grid row-->
-
-              <!--Grid row-->
-              <div class="row">
-                <!--Grid column-->
-                <div class="col-md-12">
-                  <div class="md-form">
-                    <textarea
-                      type="text"
-                      id="message"
-                      name="message"
-                      rows="2"
-                      class="form-control md-textarea"
-                    ></textarea>
-                    <label for="message">Your message</label>
-                  </div>
-                </div>
-              </div>
-              <!--Grid row-->
-            </form>
-
-            <div class="text-center text-md-left">
-              <a
-                class="btn btn-primary"
-                onclick="document.getElementById('contact-form').submit();"
-                >Send</a
-              >
             </div>
-            <div class="status"></div>
-          </div>
-          <!--Grid column-->
-
-          <!--Grid column-->
-          <div class="col-md-3 text-center">
-            <ul class="list-unstyled mb-0">
-              <li>
-                <i class="fas fa-map-marker-alt fa-2x"></i>
-                <p>San Francisco, CA 94126, USA</p>
-              </li>
-
-              <li>
-                <i class="fas fa-phone mt-4 fa-2x"></i>
-                <p>+ 01 234 567 89</p>
-              </li>
-
-              <li>
-                <i class="fas fa-envelope mt-4 fa-2x"></i>
-                <p>contact@mdbootstrap.com</p>
-              </li>
-            </ul>
-          </div>
-          <!--Grid column-->
+          </form>
+          <iframe
+            class="location my-5"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9886.515044408095!2d-9.446528658657211!3d51.72153407473245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48450c0de21b654b%3A0x1800c7a937dfb3e0!2sBallylicky%2C%20Ballylickey%2C%20Co.%20Cork%2C%20Ireland!5e0!3m2!1sen!2suk!4v1606487877061!5m2!1sen!2suk"
+            aria-hidden="false"
+          ></iframe>
         </div>
-      </section>
-      <!--Section: Contact v.2-->
+      </div>
     </section>
 
     <footer>
