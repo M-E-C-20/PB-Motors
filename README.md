@@ -84,6 +84,8 @@ In addition, you may also use this section to discuss plans for additional featu
     - I used Canva to create a company logo for the website.
 - [Font Awesome](https://fontawesome.com/)
     - I used Font Awesome to add to my navigation buttons.
+- [Pexels](https://www.pexels.com/)
+    - Many of the photos i used came from this website.
 
 
 ## Testing
@@ -123,14 +125,19 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 - The css for hovering the social media icons was copied and pasted directly from w3schools.com.
-- Icopied the css for the backgound image on the home page from the Whiskey Drop project.
+- I copied the css for the backgound image on the home page from the Whiskey Drop project.
+- I copied the html snippet for the contact form from [MDBootstrap.com](https://mdbootstrap.com/snippets/jquery/temp/2746217?action=prism_export). I changed one of the icons, made the input fields required, and used my own text decorations.
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from [Pexels](https://www.pexels.com/). In particular the content creators:
+    - [Mídia](https://www.pexels.com/@multimediayreaccion)
+    - [Pixabay](https://www.pexels.com/@pixabay)
+    - [Andrea Piacquadio](https://www.pexels.com/@olly)
+    - [Mike](https://www.pexels.com/@mikebirdy)
 
 ### Acknowledgements
 
 - I received inspiration for this project from my first job, which was in my family garage. I noticed that many small garages have no way of being contacted or even noticed unless through word of mouth.
 - I took inspiration for the navbar styling from the UCD resume project, using the box style for the navigation buttons, symbols from font awseome, and a transition effect also as in the project.
 - One of the main automotive websites I took note of was [Quick Fit](https://quickfit.ie/). In particular the home page, with the opening hours and address at the top, and a row of services performed underneath.
-- 
+- I also took note of [Pep Boys](https://www.pepboys.com/), [AA](https://www.theaa.ie/aa-membership.aspx?gclid=Cj0KCQiAhZT9BRDmARIsAN2E-J196kNgel1r2a3OZ1FP-m1-zD2rYuhpq-vEXjsWwIMJGivOowi3RFYaAm_ZEALw_wcB) and [JohnMcCarthy Recovery](https://www.johnmccarthyrecovery.com/services).
