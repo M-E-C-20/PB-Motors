@@ -100,6 +100,10 @@ _In this section, you should mention all of the languages, frameworks, libraries
   - Many of the photos i used came from this website.
 - [CSS Lint](http://csslint.net/)
   - Used to test my CSS after initially manual checks.
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
+  - Tested CSS by direct input.
+- [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
+  - Used to pinpoint errors in HTML markup.
 
 ## Testing
 
