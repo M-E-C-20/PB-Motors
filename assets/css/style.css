@@ -74,7 +74,7 @@
   height: 100vh;
   background: url(../images/tools.jpg) no-repeat bottom right fixed;
   background-size: cover;
-  overflow: visible;
+  overflow: hidden;
 }
 
 .bg-container-about {
@@ -112,10 +112,6 @@
   font-weight: 700;
   letter-spacing: 1px;
   border-bottom: 1px solid yellow;
-}
-
-.jumbotron {
-    padding-top: 0px;
 }
 
 .service-callout {
