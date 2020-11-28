@@ -86,6 +86,8 @@ In addition, you may also use this section to discuss plans for additional featu
     - I used Font Awesome to add to my navigation buttons.
 - [Pexels](https://www.pexels.com/)
     - Many of the photos i used came from this website.
+- [CSS Lint](http://csslint.net/)
+    - Used to test my CSS after initially manual checks.
 
 
 ## Testing
@@ -110,7 +112,11 @@ If this section grows too long, you may want to split it off into a separate fil
 
 1. Change nav buttons:
     - I decided to change the way the nav buttons appear on mobile as they were taking too much of the screen and hiding site content underneath, and could have been confusing for a user to use. I changed the buttons to appear in two blocks of two instead of 4 full screen width buttons.
-    
+
+2. Improving CSS:
+    - First I manually examined my CSS structure and removed uneccessary items and arranged them in a more understandable and easy to read manner.
+    - I ran my CSS through [CSS Lint](http://csslint.net/) and found 4 errors.
+    - I ran my CSS by direct input through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) which passed.
 
 ## Deployment
 
