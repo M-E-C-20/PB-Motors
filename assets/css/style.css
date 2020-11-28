@@ -21,21 +21,6 @@
   padding-top: 5px;
 }
 
-.nav-item {
-  padding-top: 40px;
-  padding-bottom: 25px;
-  color: #e8e8e8;
-  background-color: #3e3b3b;
-  font-size: 20px;
-}
-
-.nav-item:hover {
-  color: #3e3b3b;
-  background-color: #e8e8e8;
-  transition-property: color;
-  transition-duration: 1s;
-}
-
 .logo {
   text-decoration: underline;
   font-family: "Goldman", sans-serif;
@@ -52,6 +37,22 @@
   padding: 15px 15px;
 }
 
+.nav-item {
+  padding-top: 40px;
+  padding-bottom: 25px;
+  color: #e8e8e8;
+  background-color: #3e3b3b;
+  font-size: 20px;
+}
+
+.nav-item:hover {
+  color: #3e3b3b;
+  background-color: #e8e8e8;
+  transition-property: color;
+  transition-duration: 1s;
+}
+
+/*---------------------------------------------------About */
 .mechanic-image {
   width: 200px;
   height: 200px;
@@ -73,7 +74,7 @@
   height: 100vh;
   background: url(../images/tools.jpg) no-repeat bottom right fixed;
   background-size: cover;
-  overflow: hidden;
+  overflow: visible;
 }
 
 .bg-container-about {
