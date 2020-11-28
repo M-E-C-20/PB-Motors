@@ -114,6 +114,10 @@
   border-bottom: 1px solid yellow;
 }
 
+.jumbotron {
+    padding-top: 0px;
+}
+
 .service-callout {
   color: #e8e8e8;
   background-color: #3e3b3b;
