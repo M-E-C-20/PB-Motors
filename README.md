@@ -91,19 +91,23 @@ _In this section, you should mention all of the languages, frameworks, libraries
 - [JQuery](https://jquery.com)
   - The project uses **JQuery** to simplify DOM manipulation.
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaVYvwCWIORZNFLa4ZbfPQf8gAchZhdlP10mZeYDFooTFk1sW1Pua4caAgsmEALw_wcB)
-  - I used Balsamiq Wireframes for desktop to generate wireframes for my project.
-- [Canva](https://www.canva.com/tools/logo-maker-q1/?utm_source=google_sem&utm_medium=cpc&utm_campaign=REV_UK_EN_CanvaPro_Logo_EM&utm_term=REV_UK_EN_CanvaPro_Logo%20Maker_EM&gclsrc=aw.ds&&gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaV4sEhgBW0e4NXHPZWqHuup9scI62Xw9bDRG2VzYZ_2mEsON57tZ44aAp4sEALw_wcB&gclsrc=aw.ds)
-  - I used Canva to create a company logo for the website.
+  - The project uses Balsamiq Wireframes for desktop to generate wireframes for the website.
+- [Bootstrap](https://getbootstrap.com/)
+  - The project uses Bootstrap heavily to help build the site.
+- [Google Fonts](https://fonts.google.com/)
+  - The project uses Google Fonts to style the fonts on the website.
 - [Font Awesome](https://fontawesome.com/)
-  - I used Font Awesome to add to my navigation buttons.
+  - The project uses Font Awesome to add to my navigation buttons.
 - [Pexels](https://www.pexels.com/)
-  - Many of the photos i used came from this website.
+  - Many of the photos used in this project came from this website.
 - [CSS Lint](http://csslint.net/)
-  - Used to test my CSS after initially manual checks.
+  - The project uses CSS Lint as an extra testing step after initially manual checks.
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input)
-  - Tested CSS by direct input.
+  - The project uses this to test CSS by direct input.
 - [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
-  - Used to pinpoint errors in HTML markup.
+  - The project uses this to pinpoint errors in HTML markup.
+- [ResizeImage.net](https://resizeimage.net/)
+  - The project uses ResizeImage.net to resize the images used on the site.
 
 ## Testing
 
