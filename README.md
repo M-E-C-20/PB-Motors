@@ -168,6 +168,14 @@ If this section grows too long, you may want to split it off into a separate fil
    - I used the Lighthouse feature within Chrome DevTools to simulate real world conditions and analyse performance, accessibility, and best practices on both mobileand desktop while doing so.
    - This resulted in adding the rel attribute to the social links in the footer on each page, which improved the websites best practices score all round.
 
+5. [Color Contrast Accessibility Validator](https://color.a11y.com/?wc3)
+
+   - I ran each page of the website through Color Contrast Accessibility Validator. Each page passed.
+
+6. [Web Accessibility](https://www.webaccessibility.com/results/?url=https%3A%2F%2Fm-e-c-20.github.io%2FPB-Motors%2Fgallery.html)
+
+   -
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
