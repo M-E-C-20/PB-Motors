@@ -150,6 +150,7 @@ If this section grows too long, you may want to split it off into a separate fil
    3. Gallery:
 
    - I ran gallery.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found errors relating to invalid test elements. I also found an error relating to an invalid main element.
+   - Removed invalid elements re-ran tests and received no errors.
 
    4. Contact:
 
