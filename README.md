@@ -174,8 +174,8 @@ If this section grows too long, you may want to split it off into a separate fil
 
 6. [Web Accessibility](https://www.webaccessibility.com/results/?url=https%3A%2F%2Fm-e-c-20.github.io%2FPB-Motors%2Fgallery.html)
 
-   - I ran each page of the website through Web Accessibility. The gallery page showed one error due to an iframe element missing a title attribute. Added title attribute, re-ran and found no violations. The contact page showed three violations, one for a missing title attribute within an iframe element and two for missing descriptions of a link.
-   Added title attribute, added sr-only class to links, and re-ran test.
+   - I ran each page of the website through Web Accessibility. The gallery page showed one violation due to an iframe element missing a title attribute. Added title attribute, re-ran and found no violations. The contact page showed three violations, one for a missing title attribute within an iframe element and two for missing descriptions of a link.
+     Added title attribute, added sr-only class to links, and re-ran test. Each page now has no violations.
 
 ## Deployment
 
