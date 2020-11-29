@@ -108,6 +108,8 @@ _In this section, you should mention all of the languages, frameworks, libraries
   - The project uses this to pinpoint errors in HTML markup.
 - [ResizeImage.net](https://resizeimage.net/)
   - The project uses ResizeImage.net to resize the images used on the site.
+- [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools)
+  - The project uses Chrome DevTools to analyse performance, accessibility, and best practices.
 
 ## Testing
 
@@ -160,6 +162,11 @@ If this section grows too long, you may want to split it off into a separate fil
 
    - I ran contact.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found an error relating to an invalid row attribute within an input element.
    - Removed row attribute from input element, re-ran tests and received no errors.
+
+4. [Chrome DevTools:](https://developers.google.com/web/tools/chrome-devtools)
+
+   - I used the Lighthouse feature within Chrome DevTools to simulate real world conditions and analyse performance, accessibility, and best practices on both mobileand desktop while doing so.
+   - This resulted in adding the rel attribute to the social links in the footer on each page, which improved the websites best practices score all round.
 
 ## Deployment
 
