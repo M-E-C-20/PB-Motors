@@ -136,14 +136,25 @@ If this section grows too long, you may want to split it off into a separate fil
    - I ran my CSS by direct input through [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) which passed.
 
 3. HTML:
+
    1. Home:
-   - I ran the index.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. It resulted in two errors, which were br elements within ul on the address and opening hours.
-   - Removed <br> elements re-ran tests and received no errors.
+
+   - I ran index.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. It resulted in two errors, which were br elements within ul on the address and opening hours.
+   - Removed br elements re-ran tests and received no errors.
+
    2. About:
-   - I ran the about.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found errors relating to invalid test elements.
-   - Removed <test> elements, re-ran tests and received no errors.
-   3. Gallery
-   - I ran the gallery.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found errors relating to invalid test elements. I also found an error relating to an invalid main element.
+
+   - I ran about.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found errors relating to invalid test elements.
+   - Removed test elements, re-ran tests and received no errors.
+
+   3. Gallery:
+
+   - I ran gallery.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found errors relating to invalid test elements. I also found an error relating to an invalid main element.
+
+   4. Contact:
+
+   - I ran contact.html through [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input) by direct input. I found an error relating to an invalid row attribute within an input element.
+   - Removed row attribute from input element, re-ran tests and received no errors.
 
 ## Deployment
 
