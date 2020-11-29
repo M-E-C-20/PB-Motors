@@ -177,6 +177,43 @@ If this section grows too long, you may want to split it off into a separate fil
    - I ran each page of the website through Web Accessibility. The gallery page showed one violation due to an iframe element missing a title attribute. Added title attribute, re-ran and found no violations. The contact page showed three violations, one for a missing title attribute within an iframe element and two for missing descriptions of a link.
      Added title attribute, added sr-only class to links, and re-ran test. Each page now has no violations.
 
+7. Cross-Browser/Cross-Platform Functionality
+
+   - Each webpage on the website was tested using the same steps outlined below on both desktop and mobile and using Chrome, Firefox and Microsoft Edge.
+
+   1. Home
+
+   - Use navbar buttons and verify that navigation to other pages works.
+   - Use browser back and forward buttons to verify navigation is possible through the website without problems.
+   - Try to use social links in footer and verify they open in a new tab to the requested sites: Facebook, Youtube, and Instagram.
+   - Try to use the "book now" button under service and repair and verify it navigates to the "Contact" page.
+   - Try to use the "book now" button under diagnostics and verify it navigates to the "Contact" page.
+   - Try to use the "call now" button under breakdown and verify the telephone link works as expected.
+
+   2. About
+
+   - Use navbar buttons and verify that navigation to other pages works.
+   - Use browser back and forward buttons to verify navigation is possible through the website without problems.
+   - Try to use social links in footer and verify they open in a new tab to the requested sites: Facebook, Youtube, and Instagram.
+
+   3. Gallery
+
+   - Use navbar buttons and verify that navigation to other pages works.
+   - Use browser back and forward buttons to verify navigation is possible through the website without problems.
+   - Try to use social links in footer and verify they open in a new tab to the requested sites: Facebook, Youtube, and Instagram.
+   - Try to use embedded Youtube video and verify that all video controls are working.
+
+   4. Contact
+
+   - Use navbar buttons and verify that navigation to other pages works.
+   - Use browser back and forward buttons to verify navigation is possible through the website without problems.
+   - Try to use social links in footer and verify they open in a new tab to the requested sites: Facebook, Youtube, and Instagram.
+   - Try to submit the empty form and verify that an error message about the required fields appears
+   - Try to submit the form with an invalid email address and verify that a relevant error message appears
+   - Try to submit the form with all inputs valid and verify that a success message appears.
+   - Ensure embedded map loads in the correct location.
+   - Verify that embedded map control work as expected.
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
