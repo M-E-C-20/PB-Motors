@@ -142,7 +142,7 @@
   background-size: cover;
   overflow: hidden;
   padding-left: 0; /*--removed unit after running through CSS lint--*/
-  padding-right: 0;/*--removed unit after running through CSS lint--*/
+  padding-right: 0; /*--removed unit after running through CSS lint--*/
 }
 
 .about-top-image {
@@ -181,10 +181,6 @@
   background-color: #e8e8e8;
 }
 
-.card {
-  border: 1px solid #3e3b3b;
-}
-
 /*-----------------------Contact */
 
 .location {
@@ -195,6 +191,9 @@
 
 .tel-button {
   color: #3e3b3b;
+}
+
+#textarea {
 }
 
 /*---------------------------------------------------Footer */
