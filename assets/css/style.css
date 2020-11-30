@@ -7,46 +7,35 @@
 /*---------------------------------------------------Header */
 /*--I chose to make a navbar similar to the one used in the resume mini project */
 
-.menu-items a {
-  text-align: center;
-  border: 0.5px solid #e8e8e8;
-}
-.menu-items span {
-  display: block;
-  font-family: "Roboto Condensed", sans-serif;
-  font-weight: 300;
-  padding-top: 5px;
+#light-nav {
+  background-color: #e8e8e8;
 }
 
-.logo {
-  text-decoration: underline;
+.navbar-brand {
   font-family: "Goldman", sans-serif;
   font-weight: 700;
-  color: #e8e8e8;
-  background-color: #3e3b3b;
-}
-
-.logo:hover {
-  color: #e8e8e8;
-}
-
-.logo-text {
-  padding: 15px 15px;
-}
-
-.nav-item {
-  padding-top: 40px;
-  padding-bottom: 25px;
-  color: #e8e8e8;
-  background-color: #3e3b3b;
-  font-size: 20px;
-}
-
-.nav-item:hover {
   color: #3e3b3b;
-  background-color: #e8e8e8;
-  transition-property: color;
-  transition-duration: 1s;
+  white-space: normal;
+}
+
+.nav-link {
+  color: #3e3b3b;
+  font-family: "Roboto Condensed", sans-serif;
+  font-weight: 700;
+  border-bottom: none;
+}
+
+.navbar-brand:hover {
+  color: #3e3b3b;
+}
+
+.nav-link:hover {
+  color: #3e3b3b;
+  border-bottom: 5px solid #3e3b3b;
+  transition: border-bottom 0.5s ease;
+  -moz-transition: border-bottom 0.5s ease;
+  -webkit-transition: border-bottom 0.5s ease;
+  -o-transition: border-bottom 0.5s ease;
 }
 
 /*---------------------------------------------------Section */

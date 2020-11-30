@@ -31,27 +31,41 @@
   <body>
     <header>
       <!--Nav section-->
-      <div class="row no-gutters menu-items">
-        <a href="index.html" class="col-12 col-md-4 uppercase logo"
-          ><h2 class="logo-text">Pearson's Bridge Motors</h2></a
+      <!-- This is a Bootstrap navbar -->
+      <nav class="navbar navbar-expand-lg fixed-top" id="light-nav">
+        <a class="navbar-brand mr-auto" href="index.html"
+          >Pearson's Bridge Motors</a
         >
-        <a href="index.html" class="col-6 col-md-2 nav-item nav-item-home"
-          ><i class="fas fa-home" aria-hidden="true"><span>Home</span></i></a
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarNav"
+          aria-controls="navbarNav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
         >
-        <a href="about.html" class="col-6 col-md-2 nav-item nav-item-about"
-          ><i class="fas fa-address-card" aria-hidden="true"
-            ><span>About</span></i
-          ></a
-        >
-        <a href="gallery.html" class="col-6 col-md-2 nav-item nav-item-gallery"
-          ><i class="fas fa-car" aria-hidden="true"><span>Gallery</span></i></a
-        >
-        <a href="contact.html" class="col-6 col-md-2 nav-item nav-item-contact"
-          ><i class="fas fa-comments" aria-hidden="true"
-            ><span>Contact</span></i
-          ></a
-        >
-      </div>
+          <span class="navbar-toggler-icon"> <i class="fas fa-bars"></i></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item mr-auto">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item mr-auto">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item mr-auto">
+              <a class="nav-link" href="#">Gallery</a>
+            </li>
+            <li class="nav-item active mr-auto">
+              <a class="nav-link" href="contact.html"
+                >Contact<span class="sr-only">(current)</span></a
+              >
+            </li>
+          </ul>
+        </div>
+      </nav>
       <!--End nav section-->
     </header>
 
