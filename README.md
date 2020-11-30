@@ -119,7 +119,7 @@ _In this section, you should mention all of the languages, frameworks, libraries
 
    - I decided to change the way the nav buttons appear on mobile as they were taking too much of the screen and hiding site content underneath, and could have been confusing for a user to use. I changed the buttons to appear in two blocks of two instead of 4 full screen width buttons.
 
-2.### CSS:
+2. ### CSS:
 
 - First I manually examined my CSS structure and removed uneccessary items and arranged them in a more understandable and easy to read manner.
 - I ran my CSS through [CSS Lint](http://csslint.net/) and found 4 errors.
