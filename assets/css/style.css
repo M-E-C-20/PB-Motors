@@ -5,7 +5,7 @@
 }
 
 /*---------------------------------------------------Header */
-/*--I chose to make a navbar similar to the one used in the resume mini project */
+/*--I used a Bootstrap fixed top navbar */
 
 #light-nav {
   background-color: #e8e8e8;
@@ -47,7 +47,6 @@
 /*-----------------------Home */
 
 .business-hours-address {
-  height: 100vh;
   background: url(../images/tools.jpg) no-repeat bottom right fixed;
   background-size: cover;
   overflow: hidden;
