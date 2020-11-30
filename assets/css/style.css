@@ -9,13 +9,17 @@
 
 #light-nav {
   background-color: #e8e8e8;
+  border-bottom: 1px solid #3e3b3b;
 }
 
-.navbar-brand {
-  font-family: "Goldman", sans-serif;
-  font-weight: 700;
+.logo {
   color: #3e3b3b;
-  white-space: normal;
+}
+
+.logo-text {
+  font-family: "Goldman", sans-serif;
+  font-weight: 300;
+  display: block;
 }
 
 .nav-link {
