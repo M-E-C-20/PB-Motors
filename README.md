@@ -169,6 +169,8 @@ _In this section, you should mention all of the languages, frameworks, libraries
    - I used the Lighthouse feature within Chrome DevTools to simulate real world conditions and analyse performance, accessibility, and best practices on both mobileand desktop while doing so.
    - This resulted in adding the rel attribute to the social links in the footer on each page, which improved the websites best practices score all round.
 
+     [Link to pdf of results](https://github.com/M-E-C-20/PB-Motors/tree/master/audits)
+
 5. ### [Color Contrast Accessibility Validator](https://color.a11y.com/?wc3)
 
    - I ran each page of the website through Color Contrast Accessibility Validator. Each page passed.
