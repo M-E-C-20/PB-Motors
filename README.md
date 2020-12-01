@@ -72,8 +72,7 @@ I used the hamburger icon for my menu because it is widely recognised and used.
 I used the car icon with Goldman font used for the logo.
 In the what we do section on the home page, I used three icons, the wrench, medical laptop, and toolbox.
 In the footer i used standard icons for copyright, Facebook, Youtube and Instagram.
-
-_This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser._
+All icons used in this project were sourced from Font Awesome.
 
 ## Features
 
@@ -244,19 +243,31 @@ _In this section, you should mention all of the languages, frameworks, libraries
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+This project was developed in Gitpod, controlled using Git, and hosted using GitHub. The live webpage is hosted by GitHub Pages.
+To deploy Pearson's Bridge Motors using GitHub pages the following steps were taken:
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
+1. Open GitHub in the browser.
+2. Sign in using my username and password.
+3. Click on my repositories.
+4. Select PB-Motors.
+5. Click on settings.
+6. Scroll down to GitHub Pages.
+7. Select Master Branch from the Source dropdown menu.
+8. Save my selection.
+9. PB-Motors is now live on GitHub Pages.
 
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+To run PB-Motors locally the following steps must be taken:
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+1. Navigate back to M-E-C-20/PB-Motors.
+2. Click on the Code button.
+3. Make sure HTTPS is selected.
+4. Copy the URL supplied.
+5. Open up the terminal in your IDE.
+6. Input git clone followed by the URL you copied into the terminal.
+
+\$ git clone https://github.com/M-E-C-20/PB-Motors.git
 
 ## Credits
-
-### Content
 
 ### Media
 
