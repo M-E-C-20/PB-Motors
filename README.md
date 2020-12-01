@@ -117,7 +117,7 @@ _In this section, you should mention all of the languages, frameworks, libraries
 
 1. ### Change nav buttons:
 
-   - I decided to change the way the nav buttons appear on mobile as they were taking too much of the screen and hiding site content underneath, and could have been confusing for a user to use. I changed the buttons to appear in two blocks of two instead of 4 full screen width buttons.
+   - I decided to change the way the nav buttons appear on mobile as they were taking too much of the screen and hiding site content underneath, and could have been confusing for a user to use. Under advice from my mentor, there is now a navbar which is fixed to the top of the screen.
 
 2. ### CSS:
 
@@ -161,11 +161,17 @@ _In this section, you should mention all of the languages, frameworks, libraries
    - I ran each page of the website through Web Accessibility. The gallery page showed one violation due to an iframe element missing a title attribute. Added title attribute, re-ran and found no violations. The contact page showed three violations, one for a missing title attribute within an iframe element and two for missing descriptions of a link.
      Added title attribute, added sr-only class to links, and re-ran test. Each page now has no violations.
 
-7. ### Cross-Browser/Cross-Platform Functionality
+7. ### Website Functionality
 
-   - Each webpage on the website was tested using the same steps outlined below on both desktop and mobile and using Chrome, Opera, Firefox and Microsoft Edge.
+   - Each webpage on the website was tested using the same steps outlined below on desktop using Chrome, Opera, Firefox and Microsoft Edge.
+   - Mobile testing was performed using the [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) virtual phone. I used three different virtual phones to ensure that the website functioned correctly through different screen sizes, as my mentor Rohit had found an erroron my homepage which was only visible using the Galaxy Fold virtual device.
+   - With this in mind, the three virtual mobile devices I used were:
 
-   1. #### Home
+   1. iPad (768x1024)
+   2. Moto G4 (360x640)
+   3. Galaxy Fold (280x653)
+
+   4. #### Home
 
    - Use navbar buttons and verify that navigation to other pages works.
    - Use browser back and forward buttons to verify navigation is possible through the website without problems.
