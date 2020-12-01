@@ -63,8 +63,14 @@ _I will need to make these links to wireframes_
 
 ### Surface
 
-I wish to use a simple grey and white colour scheme which contrasts well together and is easily read.
+#### Colours
+
+I decided to use a simple grey and white colour scheme which contrasts well together and is easily read.
 This should create an accessible interface and suits a website for a small organisation with a limited needs, which is to get the user to try to make contact with the business.
+The colours I used were #3e3b3b which was a grey colour and #e8e8e8 which was an offf-white colour.
+
+![#3e3b3b](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/grey.jpg?raw=true)
+![#e8e8e8](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/white.jpg?raw=true)
 
 _This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser._
 
@@ -125,6 +131,7 @@ _In this section, you should mention all of the languages, frameworks, libraries
    - My mentor Rohit discovered that, suing the Galaxy Fold virtual device on Chrome DevTools, the screen had a horizontal scroll bar. This was due to the narrowness of the screen comined with more content than could be compressed causingthe table to overflow the window.
      This was fixed by removing some uneccessary words which were bloating the cell sizes in the table.
    - Rohit advised me to redirect my form submission from the contact page to go back to my home page when tested. Previously it was redirecting to an external source, Code Institute's form dump page, which he advised me against.
+   - I was made aware that the email input in my form did not require an @ symbol and was missing a name attribute after I submitted my code for review on Slack. Thank you to the user Paul for alerting me to this.
 
 2. ### CSS:
 
