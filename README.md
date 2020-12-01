@@ -95,8 +95,6 @@ All icons used in this project were sourced from Font Awesome.
 
 ## Technologies Used
 
-_In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used._
-
 - [Balsamiq Wireframes](https://balsamiq.com/wireframes/?gclid=Cj0KCQiAhs79BRD0ARIsAC6XpaVYvwCWIORZNFLa4ZbfPQf8gAchZhdlP10mZeYDFooTFk1sW1Pua4caAgsmEALw_wcB)
   - The project uses Balsamiq Wireframes for desktop to generate wireframes for the website.
 - [Gitpod](https://www.gitpod.io/)
