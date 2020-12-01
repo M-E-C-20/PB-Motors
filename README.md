@@ -246,21 +246,21 @@ _In this section, you should mention all of the languages, frameworks, libraries
 This project was developed in Gitpod, controlled using Git, and hosted using GitHub. The live webpage is hosted by GitHub Pages.
 To deploy Pearson's Bridge Motors using GitHub pages the following steps were taken:
 
-1. Open GitHub in the browser.
+1. Open **GitHub** in the browser.
 2. Sign in using my username and password.
-3. Click on my repositories.
-4. Select PB-Motors.
-5. Click on settings.
-6. Scroll down to GitHub Pages.
-7. Select Master Branch from the Source dropdown menu.
+3. Click on **my repositories**.
+4. Select **PB-Motors**.
+5. Click on **settings**.
+6. Scroll down to **GitHub Pages**.
+7. Select **Master Branch** from the Source dropdown menu.
 8. Save my selection.
 9. PB-Motors is now live on GitHub Pages.
 
 To run PB-Motors locally the following steps must be taken:
 
-1. Navigate back to M-E-C-20/PB-Motors.
-2. Click on the Code button.
-3. Make sure HTTPS is selected.
+1. Navigate back to **M-E-C-20/PB-Motors**.
+2. Click on the **Code** button.
+3. Make sure **HTTPS** is selected.
 4. Copy the URL supplied.
 5. Open up the terminal in your IDE.
 6. Input git clone followed by the URL you copied into the terminal.
@@ -288,3 +288,6 @@ To run PB-Motors locally the following steps must be taken:
 - I copied the css for the backgound image on the home page from the Whiskey Drop project.
 - I copied the html snippet for the contact form from [MDBootstrap.com](https://mdbootstrap.com/snippets/jquery/temp/2746217?action=prism_export). I changed one of the icons, made the input fields required, and used my own text decorations.
 - I also took note of [Pep Boys](https://www.pepboys.com/), [AA](https://www.theaa.ie/aa-membership.aspx?gclid=Cj0KCQiAhZT9BRDmARIsAN2E-J196kNgel1r2a3OZ1FP-m1-zD2rYuhpq-vEXjsWwIMJGivOowi3RFYaAm_ZEALw_wcB) and [JohnMcCarthy Recovery](https://www.johnmccarthyrecovery.com/services).
+- I would like to thank the Slack community as a general source of information and for people willing to lend a hand.
+- I would also like to thank my mentor Rohit Sharma for their valuable insight.
+  Finally I would like to thank my partner and children for their understanding and support during a tough time.
