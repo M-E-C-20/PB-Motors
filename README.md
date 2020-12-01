@@ -14,10 +14,6 @@ On the gallery page I will include some images of the garage and some helpful ti
 
 ## UX
 
-_Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things._
-
-_In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:_
-
 ### User Stories
 
 - As a new user, I want to find out what work can I get done to my vehicle?
@@ -50,16 +46,8 @@ In the footer section there will be copyright mark and social media icons which 
 
 ### Skeleton
 
-- Home
-- About
-- Gallery
-- Contact
-
----
-
-_I will need to make these links to wireframes_
-
----
+- [Desktop Wireframes](https://github.com/M-E-C-20/PB-Motors/blob/master/wireframes/MS1%20desktop.pdf)
+- [Mobile Wireframes](https://github.com/M-E-C-20/PB-Motors/blob/master/wireframes/MS1%20mobile.pdf)
 
 ### Surface
 
@@ -67,16 +55,27 @@ _I will need to make these links to wireframes_
 
 I decided to use a simple grey and white colour scheme which contrasts well together and is easily read.
 This should create an accessible interface and suits a website for a small organisation with a limited needs, which is to get the user to try to make contact with the business.
-The colours I used were #3e3b3b which was a grey colour and #e8e8e8 which was an offf-white colour.
+The colours I used were #3e3b3b which was a grey colour and #e8e8e8 which was an offf-white colour. I chose these colours because I found them easy to look at and in every page the contrast has scored highly for accessibility.
 
 ![#3e3b3b](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/grey.jpg?raw=true)
 ![#e8e8e8](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/white.jpg?raw=true)
 
+### Fonts
+
+I chose two fonts to use for this project: [Roboto Condensed](https://fonts.google.com/specimen/Roboto+Condensed), and [Goldman](https://fonts.google.com/specimen/Goldman?query=goldm).
+I chose these two because I think they are clean, mechanical fonts which suit the design of the website.
+I used Goldman for large headers, and Roboto Condensed for the bulk of the content.
+
+### Icons
+
+I used the hamburger icon for my menu because it is widely recognised and used.
+I used the car icon with Goldman font used for the logo.
+In the what we do section on the home page, I used three icons, the wrench, medical laptop, and toolbox.
+In the footer i used standard icons for copyright, Facebook, Youtube and Instagram.
+
 _This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser._
 
 ## Features
-
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 ### Existing Features
 
@@ -89,6 +88,11 @@ In this section, you should go over the different parts of your project, and des
 - Embeded Video - The embedded video at the bottom of the gallery is one that includes car maintenence tips for an ordinary person. This is designed to inspire trust between the user and business, by educating them.
 - Contact Form - Allows users to make contact with the business, by having them fill out the form.
 - Embedded Map - Allows users to locate the garage easily without having to leave the website to input the location manually themselves.
+
+### Features to be Implemented
+
+- In the future I would like to add a more comprehensive booking form, as a a=step up from the basic contact form i have implemented here.
+- I would also like to include a members login so a customer could save their details and potentially avail of offers.
 
 ## Technologies Used
 
