@@ -1,5 +1,7 @@
 # Pearson's Bridge Motors
 
+![Responsive](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/responsive-screens.jpg?raw=true)
+
 This is my website which will be used to advertise a small local garage.
 It should feature the services offered and a price guide, an about page, a gallery and a contact page.
 the primary goal is to intice customers to make contact with the garage via the contact page.
@@ -7,6 +9,8 @@ the primary goal is to intice customers to make contact with the garage via the 
 To do this I will need to make a comprehensive guide of services are available and use the price guide to give the customer confidence in what they are spending they're money on.
 To bolster this confidence, I will include an about page and a gallery.
 On the gallery page I will include some images of the garage and some helpful tips for self maintenance for the customer.
+
+[Live Website](https://m-e-c-20.github.io/PB-Motors/)
 
 ## UX
 
@@ -115,9 +119,12 @@ _In this section, you should mention all of the languages, frameworks, libraries
 
 ## Testing
 
-1. ### Change nav buttons:
+1. ### Fixed Issues:
 
    - I decided to change the way the nav buttons appear on mobile as they were taking too much of the screen and hiding site content underneath, and could have been confusing for a user to use. Under advice from my mentor, there is now a navbar which is fixed to the top of the screen.
+   - My mentor Rohit discovered that, suing the Galaxy Fold virtual device on Chrome DevTools, the screen had a horizontal scroll bar. This was due to the narrowness of the screen comined with more content than could be compressed causingthe table to overflow the window.
+     This was fixed by removing some uneccessary words which were bloating the cell sizes in the table.
+   - Rohit advised me to redirect my form submission from the contact page to go back to my home page when tested. Previously it was redirecting to an external source, Code Institute's form dump page, which he advised me against.
 
 2. ### CSS:
 
@@ -180,11 +187,21 @@ _In this section, you should mention all of the languages, frameworks, libraries
    - Try to use the "book now" button under diagnostics and verify it navigates to the "Contact" page.
    - Try to use the "call now" button under breakdown and verify the telephone link works as expected.
 
+   Home page screenshots:
+
+   - [desktop](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/home-desktop.jpg)
+   - [mobile](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/home-mobile.jpg)
+
    2. #### About
 
    - Use navbar buttons and verify that navigation to other pages works.
    - Use browser back and forward buttons to verify navigation is possible through the website without problems.
    - Try to use social links in footer and verify they open in a new tab to the requested sites: Facebook, Youtube, and Instagram.
+
+   About page screenshots:
+
+   - [desktop](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/about-desktop.jpg)
+   - [mobile](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/about-mobile.jpg)
 
    3. #### Gallery
 
@@ -192,6 +209,11 @@ _In this section, you should mention all of the languages, frameworks, libraries
    - Use browser back and forward buttons to verify navigation is possible through the website without problems.
    - Try to use social links in footer and verify they open in a new tab to the requested sites: Facebook, Youtube, and Instagram.
    - Try to use embedded Youtube video and verify that all video controls are working.
+
+   Gallery page screenshots:
+
+   - [desktop](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/gallery-desktop.jpg)
+   - [mobile](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/gallery-mobile.jpg)
 
    4. #### Contact
 
@@ -203,6 +225,11 @@ _In this section, you should mention all of the languages, frameworks, libraries
    - Try to submit the form with all inputs valid and verify that a success message appears.
    - Ensure embedded map loads in the correct location.
    - Verify that embedded map control work as expected.
+
+   Contact page screenshots:
+
+   - [desktop](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/contact-desktop.jpg)
+   - [mobile](https://github.com/M-E-C-20/PB-Motors/blob/master/screenshots/contact-mobile.jpg)
 
 ## Deployment
 
